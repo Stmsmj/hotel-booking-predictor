@@ -1,3 +1,5 @@
+# hotel booking predictor
+
 in this i tried to find the best model for a imbalanced dataset with 36 million rows. for this dataset we are gonna do some classification. unfortunately link of this dataset is not accessible at the time of writing this. 
 main challenges of this code was:
 * data was imbalanced
